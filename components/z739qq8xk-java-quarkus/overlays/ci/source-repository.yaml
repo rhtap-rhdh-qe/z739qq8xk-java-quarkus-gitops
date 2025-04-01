@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z739qq8xk-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/z739qq8xk-java-quarkus
